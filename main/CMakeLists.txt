@@ -1,2 +1,2 @@
-idf_component_register(SRCS "hello_world_main.cpp"
+idf_component_register(SRCS "wifi_check_ota.cpp"
                     INCLUDE_DIRS "")
