@@ -1,0 +1,10 @@
+*.elf
+*.map
+*.obj
+*.cmake
+*.a
+*.out
+*.in
+*.s
+CmakeCache.txt
+CMakeFiles

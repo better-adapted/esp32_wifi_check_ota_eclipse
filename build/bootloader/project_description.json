@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "G:/espidf_eclipse/esp-idf-v4.4.3/components/bootloader/subproject",
+    "build_dir":          "C:/Users/adam/eclipse-workspace/esp32-fsl/wifi_check_ota/build/bootloader",
+    "config_file":        "C:/Users/adam/eclipse-workspace/esp32-fsl/wifi_check_ota/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4.3-dirty",
+    "target":             "esp32",
+    "rev":                "0",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "G:/espidf_eclipse/esp-idf-v4.4.3/components/efuse/Kconfig;G:/espidf_eclipse/esp-idf-v4.4.3/components/esp32/Kconfig;G:/espidf_eclipse/esp-idf-v4.4.3/components/esp_common/Kconfig;G:/espidf_eclipse/esp-idf-v4.4.3/components/esp_hw_support/Kconfig;G:/espidf_eclipse/esp-idf-v4.4.3/components/esp_system/Kconfig;G:/espidf_eclipse/esp-idf-v4.4.3/components/freertos/Kconfig;G:/espidf_eclipse/esp-idf-v4.4.3/components/hal/Kconfig;G:/espidf_eclipse/esp-idf-v4.4.3/components/log/Kconfig;G:/espidf_eclipse/esp-idf-v4.4.3/components/newlib/Kconfig;G:/espidf_eclipse/esp-idf-v4.4.3/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "G:/espidf_eclipse/esp-idf-v4.4.3/components/bootloader/Kconfig.projbuild;G:/espidf_eclipse/esp-idf-v4.4.3/components/esp_rom/Kconfig.projbuild;G:/espidf_eclipse/esp-idf-v4.4.3/components/esptool_py/Kconfig.projbuild;G:/espidf_eclipse/esp-idf-v4.4.3/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "G:/espidf_eclipse/esp-idf-v4.4.3/components/bootloader", "G:/espidf_eclipse/esp-idf-v4.4.3/components/bootloader_support", "G:/espidf_eclipse/esp-idf-v4.4.3/components/efuse", "G:/espidf_eclipse/esp-idf-v4.4.3/components/esp32", "G:/espidf_eclipse/esp-idf-v4.4.3/components/esp_common", "G:/espidf_eclipse/esp-idf-v4.4.3/components/esp_hw_support", "G:/espidf_eclipse/esp-idf-v4.4.3/components/esp_rom", "G:/espidf_eclipse/esp-idf-v4.4.3/components/esp_system", "G:/espidf_eclipse/esp-idf-v4.4.3/components/esptool_py", "G:/espidf_eclipse/esp-idf-v4.4.3/components/freertos", "G:/espidf_eclipse/esp-idf-v4.4.3/components/hal", "G:/espidf_eclipse/esp-idf-v4.4.3/components/log", "G:/espidf_eclipse/esp-idf-v4.4.3/components/bootloader/subproject/main", "G:/espidf_eclipse/esp-idf-v4.4.3/components/bootloader/subproject/components/micro-ecc", "G:/espidf_eclipse/esp-idf-v4.4.3/components/newlib", "G:/espidf_eclipse/esp-idf-v4.4.3/components/partition_table", "G:/espidf_eclipse/esp-idf-v4.4.3/components/soc", "G:/espidf_eclipse/esp-idf-v4.4.3/components/spi_flash", "G:/espidf_eclipse/esp-idf-v4.4.3/components/xtensa", "" ]
+}

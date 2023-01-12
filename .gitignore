@@ -1,0 +1,7 @@
+*.o
+*.log
+*.old
+*.map
+ESP32_INWOOD_x4/managed_components/espressif__arduino-esp32/.component_hash
+*.elf
+*.bin
