@@ -2,11 +2,10 @@
 *.log
 *.old
 *.map
-*.component_hash
-.component_hash
 *.elf
 *.bin
 *.a
 *.obj
 *.cmake
-/build/
+build/
+managed_components/
